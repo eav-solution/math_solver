@@ -1,9 +1,7 @@
 # Math Solver Frontend
 
 ## Demo Video
-<video src="./demo/demo_video.mp4" controls width="600">
-    Your browser does not support the video tag.
-</video>
+[Watch the demo video](./demo/demo_video.mp4)
 
 ## Setup Instructions
 
