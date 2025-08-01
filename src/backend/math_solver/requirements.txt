@@ -1,0 +1,6 @@
+flask
+firebase-admin
+langchain-openai
+langchain
+langchain_community
+gunicorn
